@@ -1,2 +1,4 @@
 # ReadingMinutes
-Some of my reading notes here. ^-^
+Note recordings about:
+- Book reading
+- Movie review
